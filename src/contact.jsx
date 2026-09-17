@@ -1,4 +1,4 @@
- import roseImage from '../assets/rose.png';
+ import roseImage from './assets/rose.png';
 
 
 

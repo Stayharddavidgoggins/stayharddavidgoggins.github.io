@@ -1,6 +1,7 @@
  import { useNavigate } from 'react-router-dom';
 
-import '../styles/Welcome.css';
+import "../Welcome.css";
+
 
 import welcomeImage from '../assets/OIP (1).webp';
 

@@ -4,15 +4,27 @@ import useMediaQuery from '@mui/material/useMediaQuery'
 
 import './App.css'
 
-import HomePage from './pages/HomePage'
+import HomePage from "./pages/HomePage.jsx";
 
-import Schedule from '../src/components/schedule'
+import Welcome from "./components/Welcome.jsx";
 
-import About from './components/about'
 
-import Contact from './components/contact'
 
-import Welcome from './components/Welcome'
+
+
+
+
+import Schedule from "./schedule.jsx";
+
+
+import About from "./about.jsx";
+
+
+import Contact from "./contact.jsx";
+
+
+import "../Welcome.css";
+
 
 import Socials from './components/socials'
 
