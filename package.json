@@ -1,0 +1,27 @@
+{
+  "name": "stayharddavidgoggins.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@vitejs/plugin-react": "^6.1.1",
+    "sass": "^1.104.1",
+    "styled-jsx": "^5.1.7"
+  },
+  "devDependencies": {
+    "postcss-nesting": "^14.0.1",
+    "postcss-preset-env": "^11.5.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
