@@ -23,7 +23,7 @@ import About from "./about.jsx";
 import Contact from "./contact.jsx";
 
 
-import "../Welcome.css";
+import "./Welcome.css";
 
 
 import Socials from './components/socials'
